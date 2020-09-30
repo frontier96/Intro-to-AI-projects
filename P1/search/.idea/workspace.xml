@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8744106d-2988-4595-bbc1-39c64fac0c62" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1XNB1YWDcJF1vPPwLx6NVQN4SRX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_INHERITED" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8744106d-2988-4595-bbc1-39c64fac0c62" name="Default Changelist" comment="" />
+      <created>1580876459479</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580876459479</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="538" y="597" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1580879396485">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="538" y="597" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/-1920.1225.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1580879396485" />
+    <state x="553" y="469" key="FileChooserDialogImpl" timestamp="1580879389493">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="553" y="469" key="FileChooserDialogImpl/-1920.1225.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1580879389493" />
+    <state x="1195" y="431" key="SettingsEditor" timestamp="1581313435675">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1195" y="431" key="SettingsEditor/-1920.1225.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1581313435675" />
+    <state x="901" y="728" width="540" height="524" key="StructurePopup" timestamp="1580879697068">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="901" y="728" width="540" height="524" key="StructurePopup/-1920.1225.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1580879697068" />
+    <state x="649" y="473" width="779" height="471" key="com.intellij.ide.util.TipDialog" timestamp="1582149895370">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="649" y="473" width="779" height="471" key="com.intellij.ide.util.TipDialog/-1920.1225.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1581235531819" />
+    <state x="649" y="473" key="com.intellij.ide.util.TipDialog/0.0.2560.1440@0.0.2560.1440" timestamp="1582149895370" />
+    <state x="223" y="409" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1581114193570">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="223" y="409" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/-1920.1225.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1581114193570" />
+    <state x="1271" y="0" width="1031" height="1426" key="dock-window-1" timestamp="1581213572465">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1271" y="0" width="1031" height="1426" key="dock-window-1/-1920.1225.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1581213572465" />
+    <state x="495" y="637" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1580897276561">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="495" y="637" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/-1920.1225.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1580897276561" />
+  </component>
+</project>
